@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Samuel Molina 👋
 
-<!--
-**Samu432/Samu432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista y Desarrollador de Software | Orientado al desarrollo Full-Stack**
 
-Here are some ideas to get you started:
+Me gusta involucrarme en todas las etapas de un proyecto — desde el análisis hasta el backend, el frontend y las pruebas — y aportar donde se necesite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Cursando el Tecnólogo en Análisis y Desarrollo de Software (SENA)
+- 🛠️ Técnico en Programación de Software (título previo)
+- 📍 Bogotá, Colombia
+- 💻 Interesado en el desarrollo Full-Stack y en aprender constantemente
+
+---
+
+## 🧰 Tecnologías y Herramientas
+
+- **Lenguajes:** Python, JavaScript, SQL, HTML, CSS
+- **Frameworks/Librerías:** React, FastAPI
+- **Bases de datos:** PostgreSQL, MySQL
+- **Herramientas:** Git, GitHub
+
+---
+
+## 📂 Proyectos destacados
+
+- **Acadex** — Gestor de tareas para equipos (FastAPI, PostgreSQL, React). Desarrollador backend, con apoyo en frontend, pruebas de seguridad y documentación técnica.
+- **Plataforma de agendamiento de citas escolares** — Sistema para agendar citas entre docentes y acudientes/estudiantes (MySQL). Desarrollo del CRUD backend, apoyo en interfaz y documentación.
+
+---
+
+## 📫 Contacto
+
+- **Email:** sam.molinadiaz@gmail.com
+- **LinkedIn:** pendiente
