@@ -2,7 +2,7 @@
 
 **Analista y Desarrollador de Software | Orientado al desarrollo Full-Stack**
 
-Me gusta involucrarme en todas las etapas de un proyecto — desde el análisis hasta el backend, el frontend y las pruebas — y aportar donde se necesite.
+Me gusta involucrarme en todas las etapas de un proyecto — desde el análisis de requisitos y bases de datos hasta el backend, el frontend, las pruebas y la documentación. Soy una persona colaborativa y proactiva, siempre dispuesta a aportar ideas y soluciones donde se necesite.
 
 ---
 
