@@ -34,4 +34,4 @@ Me gusta involucrarme en todas las etapas de un proyecto — desde el análisis 
 ## 📫 Contacto
 
 - **Email:** sam.molinadiaz@gmail.com
-- **LinkedIn:** pendiente
+- **LinkedIn:** www.linkedin.com/in/samuel-esteban-molina-diaz
