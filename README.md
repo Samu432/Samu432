@@ -17,7 +17,7 @@ Me gusta involucrarme en todas las etapas de un proyecto — desde el análisis 
 
 ## 🧰 Tecnologías y Herramientas
 
-- **Lenguajes:** Python, JavaScript, SQL, HTML, CSS
+- **Lenguajes:** Python, TypeScript, SQL, HTML, CSS
 - **Frameworks/Librerías:** React, FastAPI
 - **Bases de datos:** PostgreSQL, MySQL
 - **Herramientas:** Git, GitHub
@@ -35,3 +35,6 @@ Me gusta involucrarme en todas las etapas de un proyecto — desde el análisis 
 
 - **Email:** sam.molinadiaz@gmail.com
 - **LinkedIn:** www.linkedin.com/in/samuel-esteban-molina-diaz
+
+## Certificaciones
+-- [certificado-asistencia-innovacion-desarrollo-ia-2026 – Big school](https://github.com/Samu432/Certificados/blob/main/certificado-asistencia-innovacion-desarrollo-ia-2026.pdf)
